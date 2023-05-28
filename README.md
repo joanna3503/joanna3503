@@ -1,4 +1,9 @@
 ### Hi there 👋
+I am joanna
+- 🔭 I’m currently a student
+- 🌱 I’m currently studing in NCU MIS
+
+Nice to meet you!
 
 <!--
 **joanna3503/joanna3503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
